@@ -9,4 +9,6 @@ class DemoGraphs extends Model
 {
     /** @use HasFactory<\Database\Factories\DemoGraphsFactory> */
     use HasFactory;
+
+
 }
